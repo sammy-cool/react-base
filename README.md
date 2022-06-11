@@ -1,3 +1,5 @@
+# FORK or clone it to start your `#react-project` today with @clean default react-base app`(^_*)`!
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
