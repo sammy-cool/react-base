@@ -1,5 +1,11 @@
 const App = () => {
-    return <div>`!**Hello world! Start with default clean react-base app just #fork it**!`</div>;
-  };
-  
-  export default App;
+  return (
+    <div>
+      <h1>
+        !**Hello world! Start with default clean react-base app just #fork it**!
+      </h1>
+    </div>
+  );
+};
+
+export default App;
